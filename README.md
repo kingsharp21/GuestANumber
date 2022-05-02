@@ -13,11 +13,11 @@ The Game was build with **`HTML`**,**`CSS`** and **`JavaScript`**. It is a one p
 ### 🎥 Preview
 
 - 🖥 **Desktop view** : <p align="center">
-  <img width="100%" src="https://drive.google.com/file/d/1ApLs5fm6Hng50dT0oUaS1FP28Wi0vMAZ/view?usp=sharing" />
+  <img width="100%" src="https://github.com/kingsharp21/GuestANumber/blob/master/assests/guest%20a%20number%20shot.jpg" />
   </p>
-- 📱 **Mobile view** : <p align="center">
+<!-- - 📱 **Mobile view** : <p align="center">
   <img width="35%" src="https://drive.google.com/file/d/1nZP333SuFEu4GBFcxtQgCNeO68HY5C0Z/view?usp=sharing" />
-  </p>
+  </p> -->
 
 ---
 
